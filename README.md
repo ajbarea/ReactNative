@@ -19,18 +19,18 @@ React Native has many Core Components for everything from controls to activity i
 
 ## React Fundamentals
 
-Core concepts behind React:  
-
-- Components - You can think of components as blueprints. Whatever a function component returns is rendered as a React element. React elements let you describe what you want to see on the screen
-- JSX - React and React Native use JSX, a syntax that lets you write elements inside JavaScript
-- [props](https://github.com/your-username/your-repo/blob/main/The%20Basics/03-ReactFundamentals.tsx#L98)
-
-- state
+- [components](https://github.com/ajbarea/ReactNative/blob/main/The%20Basics/03-ReactFundamentals.tsx) - You can think of components as blueprints. Whatever a function component returns is rendered as a React element. React elements let you describe what you want to see on the screen
+- [JSX](https://github.com/ajbarea/ReactNative/blob/main/The%20Basics/03-ReactFundamentals.tsx#L12) - React and React Native use JSX, a syntax that lets you write elements inside JavaScript
+- [props](https://github.com/ajbarea/ReactNative/blob/main/The%20Basics/03-ReactFundamentals.tsx#L99)
+- [state](https://github.com/ajbarea/ReactNative/blob/main/The%20Basics/03-ReactFundamentals.tsx#L153)
 
 ### Useful Links
 
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [React](https://react.dev/learn)
+- [React Reference Overview](https://react.dev/reference/react)
 - [Expo](https://expo.dev/)
 - [JavaScript Module Cheatsheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
 - [Guide to JSX](https://react.dev/learn/writing-markup-with-jsx)
+- [State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
+- [Built-in React Hooks](https://react.dev/reference/react/hooks)
